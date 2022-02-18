@@ -1,0 +1,168 @@
+{
+  "Messages": {
+    // 10000-10099 General Error Message
+    "10000": {
+      "web": "An error occured during this request.",
+      "ios": "",
+      "droid": ""
+    },
+    "10001": {
+      "web": "Request attempted to set non-nullable field to null",
+      "ios": "",
+      "droid": ""
+    },
+    "10002": {
+      "web": "Request used unhandled Patch operation to edit entity",
+      "ios": "",
+      "droid": ""
+    },
+    "10003": {
+      "web": "Request attempted to update property that cannot be updated",
+      "ios": "",
+      "droid": ""
+    },
+    "10004": {
+      "web": "Request attempted to create duplicate record",
+      "ios": "",
+      "droid": ""
+    },
+    // 20000-20099 Conference Error Message
+    "20000": {
+      "web": "Conference not found",
+      "ios": "",
+      "droid": ""
+    },
+    "20001": {
+      "web": "Adding ConferenceOrganizers forbidden",
+      "ios": "",
+      "droid": ""
+    },
+
+    // 30000-30099 Schedule Error Message
+    "30000": {
+      "web": "Schedule not found",
+      "ios": "",
+      "droid": ""
+    },
+
+    // 40000-49999 Leagues Error messages
+    "40000": {
+      "web": "League not found",
+      "ios": "",
+      "droid": ""
+    },
+
+    // 50000-59999 Sesion Error messages
+    "50000": {
+      "web": "Session not found",
+      "ios": "",
+      "droid": ""
+    },
+
+    "50001": {
+      "web": "Unauthorized User For Session",
+      "ios": "",
+      "droid": ""
+    },
+
+    // 60000-69999 Team Error messages
+    "60000": {
+      "web": "Team not found",
+      "ios": "",
+      "droid": ""
+    },
+
+    "60001": {
+      "web": "Team does not exist in Session",
+      "ios": "",
+      "droid": ""
+    },
+
+    "60002": {
+      "web": "Cannot remove the last team captain",
+      "ios": "",
+      "droid": ""
+    },
+
+    "60003": {
+      "web": "Cannot remove yourself as team captain",
+      "ios": "",
+      "droid": ""
+    },
+
+    "60004": {
+      "web": "Playtimeslot cannot be null",
+      "ios": "",
+      "droid": ""
+    },
+
+    // 70000-79999 Team Error messages
+    "70000": {
+      "web": "Invalid Team Id",
+      "ios": "",
+      "droid": ""
+    },
+
+    "70001": {
+      "web": "Invalid Session Id",
+      "ios": "",
+      "droid": ""
+    },
+
+    "70002": {
+      "web": "Team or Session not found",
+      "ios": "",
+      "droid": ""
+    },
+
+    "70003": {
+      "web": "League owning club not found",
+      "ios": "",
+      "droid": ""
+    },
+
+    "70004": {
+      "web": "A payment has already been charged for this user in the given session/team.",
+      "ios": "A payment has already been charged for this user in the given session/team.",
+      "droid": "A payment has already been charged for this user in the given session/team."
+    },
+
+    "70005": {
+      "web": "Invalid team registration pin",
+      "ios": "",
+      "droid": ""
+    },
+
+    "70006": {
+      "web": "Member already registered in Team",
+      "ios": "",
+      "droid": ""
+    },
+
+    // 70000-79999 Payments Error messages
+    "80000": {
+      "web": "Must refund or withdraw",
+      "ios": "",
+      "droid": ""
+    },
+
+    "80001": {
+      "web": "Session Registration not found",
+      "ios": "",
+      "droid": ""
+    },
+
+    "80002": {
+      "web": "Session Member Payment has not been completed yet. Refund cannot be issue",
+      "ios": "",
+      "droid": ""
+    },
+
+    // Member Error messages
+    "90000": {
+      "web": "Member does not exist",
+      "ios": "",
+      "droid": ""
+    }
+  }
+}
